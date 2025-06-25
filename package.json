@@ -1,7 +1,7 @@
 {
   "name": "tauri-plugin-vnidrop-fs-api",
   "version": "0.1.0",
-  "author": "You",
+  "author": "Vnidrop",
   "description": "",
   "type": "module",
   "types": "./dist-js/index.d.ts",

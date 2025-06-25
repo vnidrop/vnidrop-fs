@@ -1,15 +1,15 @@
 [package]
 name = "tauri-plugin-vnidrop-fs"
 version = "0.1.0"
-authors = [ "You" ]
-description = ""
+authors = [ "Vnidrop" ]
+description = "A Tauri plugin to handle fs operations on Android"
 edition = "2021"
 rust-version = "1.77.2"
 exclude = ["/examples", "/dist-js", "/guest-js", "/node_modules"]
 links = "tauri-plugin-vnidrop-fs"
 
 [dependencies]
-tauri = { version = "2.6.0" }
+tauri = { version = "2" }
 serde = "1.0"
 thiserror = "2"
 
